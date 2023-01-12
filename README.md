@@ -1,5 +1,5 @@
 # Calculator
-- A saw an calculator so I tried to build one calculator mobile app in flutter
+- A simple flutter project I'd done it before
 - [Here's the apk](https://github.com/whiteSHADOW1234/Calculator/blob/main/app-release.apk)
 
 #*NOTED: You should press `=` to get the answer of the equation you inputted*
